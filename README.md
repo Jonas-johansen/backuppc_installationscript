@@ -1,4 +1,13 @@
 # backuppc_installationscript
+Sliter du med backupPC?
+Dette er en samling av 3 skripter som gjør all konfigurasjon for deg. Den gjør også klient konfing i webgui for deg.
+Skripter gjør alt de "vanskelige" for deg.
+
+Skriptet er laget som en siste utvei for de som ikke får til eller får masse errors i backupPC. 
+
+
+pls gi creds i dokumentasjon om du brukte skriptet ༼ つ ◕_◕ ༽つ
+
 
 Instruksjoner BACKUP PC SCRIPT.
 
