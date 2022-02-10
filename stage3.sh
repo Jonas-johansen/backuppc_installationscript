@@ -12,7 +12,6 @@
 #   STAGE 3
 # Versjon : 1.0 | BACKUP PC SERVER CLIENTS
 echo "JOHANSEN DATA - BACKUP PC SCRIPT STAGE 3"
-echo "Før du kjører skriptet, prøv å logge på som root fra serveren til klienten. Du må gjøre dette engang før skriptet vil fungere. Du har 5 sekund på å trykke ctrl + c for å avslutte!"
 sleep 1
 echo "1"
 sleep 1
