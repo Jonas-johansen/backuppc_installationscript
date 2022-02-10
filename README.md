@@ -1,3 +1,4 @@
+LAGET AV JONAS JOHANSEN @ JOHANSEN DATA | ALLE RETTIGHETER RESERVERT
 # backuppc_installationscript
 Sliter du med backupPC?
 Dette er en samling av 3 skripter som gjør all konfigurasjon for deg. Den gjør også klient konfing i webgui for deg.
