@@ -1,18 +1,5 @@
-######################################
-#   /$$$$$           /$$                                                               /$$$$$$$              /$$              
-#   |__  $$          | $$                                                              | $$__  $$            | $$              
-#      | $$  /$$$$$$ | $$$$$$$   /$$$$$$  /$$$$$$$   /$$$$$$$  /$$$$$$  /$$$$$$$       | $$  \ $$  /$$$$$$  /$$$$$$    /$$$$$$ 
-#      | $$ /$$__  $$| $$__  $$ |____  $$| $$__  $$ /$$_____/ /$$__  $$| $$__  $$      | $$  | $$ |____  $$|_  $$_/   |____  $$
-# /$$  | $$| $$  \ $$| $$  \ $$  /$$$$$$$| $$  \ $$|  $$$$$$ | $$$$$$$$| $$  \ $$      | $$  | $$  /$$$$$$$  | $$      /$$$$$$$
-#| $$  | $$| $$  | $$| $$  | $$ /$$__  $$| $$  | $$ \____  $$| $$_____/| $$  | $$      | $$  | $$ /$$__  $$  | $$ /$$ /$$__  $$
-#|  $$$$$$/|  $$$$$$/| $$  | $$|  $$$$$$$| $$  | $$ /$$$$$$$/|  $$$$$$$| $$  | $$      | $$$$$$$/|  $$$$$$$  |  $$$$/|  $$$$$$$
-# \______/  \______/ |__/  |__/ \_______/|__/  |__/|_______/  \_______/|__/  |__/      |_______/  \_______/   \___/   \_______/
-# Johansen Data @2022 - Et produkt av Jonas Johansen
-#alle rettigheter reservet JOHANSEN DATA. ALL BRUK AV SCRIPTET MÅ KLARERES MED JONAS JOHANSEN FØR BRUK!
-# Skrevet av Jonas Johansen 8 februar 2022
-#    STAGE 1
-# Versjon : 1.0 | BACKUP PC - SERVER MAIN
-echo "JOHANSEN DATA - BACKUP PC SCRIPT STAGE 1"
+
+echo "BACKUP PC SCRIPT STAGE 1"
 sleep 2
 apt-get install apache2-utils
 apt-get install backuppc -y
